@@ -1,0 +1,6 @@
+
+@media (max-width: 692px){
+    a#toback{
+        display: none;
+    }
+}
